@@ -1,0 +1,9 @@
+/* basic colors, fonts, etc */
+$font: 'Poppins', sans-serif;
+$base-font-color: #474747;
+$base-btn-bg: linear-gradient(90deg, #D22D4F 0%, #F86358 100%);
+$body-color: #e7ecf5;
+$border-color: 1px solid #EBEBEB;
+%horizontal-center {
+    align-items: center;
+}
